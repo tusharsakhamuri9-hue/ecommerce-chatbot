@@ -23,3 +23,11 @@ AI-powered E-Commerce Chatbot built using Google Gemini and Streamlit.
 pip install -r requirements.txt
 
 streamlit run app.py
+
+## Live Demo
+
+https://ecommerce-chatbot-r3uaj7pyx2nyzb8mvd4hmd.streamlit.app/
+
+## Author
+
+Tushar Sakhamuri
